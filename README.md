@@ -20,3 +20,7 @@
 - [Reading 14: ____]()
 - [Reading 15: ____]()
 
+### About Me
+
+> My name is Dylan, I live in Port Orchard, I just graduated high school and I've been very interested in coding. I found code fellows and decided to juump on the opportunity. I'm looking forward to learn how to code!
+
