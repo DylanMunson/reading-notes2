@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Reading 1: ____]()
+- [Reading 1: Introductory HTML and JavaScript](https://dylanmunson.github.io/reading-notes2/class-01.html)
 - [Reading 2: ____]()
 - [Reading 3: ____]()
 - [Reading 4: ____]()
