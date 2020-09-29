@@ -22,5 +22,5 @@
 
 ### About Me
 
-> My name is Dylan, I live in Port Orchard, I just graduated high school and I've been very interested in coding. I found code fellows and decided to juump on the opportunity. I'm looking forward to learn how to code!
+> My name is Dylan, I live in Port Orchard, I just graduated high school and I've been very interested in coding. I found code fellows and decided to jump on the opportunity. I'm looking forward to learn how to code!
 
