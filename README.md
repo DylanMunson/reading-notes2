@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Reading 1: Introductory HTML and JavaScript](https://dylanmunson.github.io/reading-notes2/class-01.html)
-- [Reading 2:HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://dylanmunson.github.io/reading-notes2/class-01.html)
+- [Reading 2: HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://dylanmunson.github.io/reading-notes2/class-01.html)
 - [Reading 3: ____]()
 - [Reading 4: ____]()
 - [Reading 5: ____]()
