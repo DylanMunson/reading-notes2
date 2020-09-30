@@ -6,12 +6,6 @@ Switch statements are very useful. You start off a switch statement with the swi
 
 ## Overflowing Content
 
-The overflow property in CSS is very handy for making your site clean. It tells the browser what to do if the content you're working with is larger than the provided space, and it can have one of 2 values. The first value of this CSS property is 'hidden', which says to hide any content that is overflowing. The second value is 'scroll' which adds a scrollbar to the space to enable you to scroll and see and missing content. An example of the property and those 2 values would look like this.
-
-p.example1{
-  overflow: hidden;}
-p.example2{
-  overflow: scroll;}
-  
+The overflow property in CSS is very handy for making your site clean. It tells the browser what to do if the content you're working with is larger than the provided space, and it can have one of 2 values. The first value of this CSS property is 'hidden', which says to hide any content that is overflowing. The second value is 'scroll' which adds a scrollbar to the space to enable you to scroll and see and missing content. This property is useful in situations where the user adjusts the text size through their browser to be larger or smaller, because you can hide any overflow from overlapping onto other content on the page.
 
 [Back](https://dylanmunson.github.io/reading-notes2/)
