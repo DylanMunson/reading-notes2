@@ -8,7 +8,7 @@
 - [Reading 2: HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://dylanmunson.github.io/reading-notes2/class-02.html)
 - [Reading 3: HTML lists, CSS Boxes, JS Control Flow](https://dylanmunson.github.io/reading-notes2/class-03.html)
 - [Reading 4: HTML Links, CSS Layout, JS Functions](https://dylanmunson.github.io/reading-notes2/class-04.html)
-- [Reading 5: ____]()
+- [Reading 5:HTML Images; CSS Color & Text](https://dylanmunson.github.io/reading-notes2/class-05.html)
 - [Reading 6: ____]()
 - [Reading 7: ____]()
 - [Reading 8: ____]()
