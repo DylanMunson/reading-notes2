@@ -13,7 +13,7 @@
 - [Reading 7: ____]()
 - [Reading 8: More CSS Layout](https://dylanmunson.github.io/reading-notes2/class-08.html)
 - [Reading 9: Forms and Events](https://dylanmunson.github.io/reading-notes2/class-09.html)
-- [Reading 10: ____]()
+- [Reading 10: Error Handling and Debugging](https://dylanmunson.github.io/reading-notes2/class-10.html)
 - [Reading 11: ____]()
 - [Reading 12: ____]()
 - [Reading 13: ____]()
