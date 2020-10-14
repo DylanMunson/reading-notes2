@@ -16,7 +16,7 @@
 - [Reading 10: Error Handling and Debugging](https://dylanmunson.github.io/reading-notes2/class-10.html)
 - [Reading 11: ____]()
 - [Reading 12: ____]()
-- [Reading 13: ____]()
+- [Reading 13: Local Storage](https://dylanmunson.github.io/reading-notes2/class-13.html)
 - [Reading 14: ____]()
 - [Reading 15: ____]()
 
